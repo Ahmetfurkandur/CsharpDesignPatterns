@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Mediator\obj\Debug\Mediator.pdb

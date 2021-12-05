@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\bin\Debug\State.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\bin\Debug\State.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\bin\Debug\State.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\obj\Debug\State.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\State\obj\Debug\State.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

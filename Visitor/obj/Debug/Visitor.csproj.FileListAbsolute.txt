@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Visitor\obj\Debug\Visitor.pdb

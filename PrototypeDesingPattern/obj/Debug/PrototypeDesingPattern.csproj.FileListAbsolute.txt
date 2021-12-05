@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.pdb

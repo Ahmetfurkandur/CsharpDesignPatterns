@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Bridge\obj\Debug\Bridge.pdb

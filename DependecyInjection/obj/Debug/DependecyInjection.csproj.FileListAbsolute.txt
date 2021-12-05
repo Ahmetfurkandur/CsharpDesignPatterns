@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\bin\Debug\DependecyInjection.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\bin\Debug\DependecyInjection.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\bin\Debug\DependecyInjection.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\obj\Debug\DependecyInjection.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\obj\Debug\DependecyInjection.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\obj\Debug\DependecyInjection.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\DependecyInjection\obj\Debug\DependecyInjection.pdb

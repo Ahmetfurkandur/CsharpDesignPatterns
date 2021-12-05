@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\bin\Debug\AdaperDesingPattern.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\bin\Debug\AdaperDesingPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\bin\Debug\AdaperDesingPattern.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\obj\Debug\AdaperDesingPattern.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\obj\Debug\AdaperDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\obj\Debug\AdaperDesingPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\AdaperDesingPattern\obj\Debug\AdaperDesingPattern.pdb

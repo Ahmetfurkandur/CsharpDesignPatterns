@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb

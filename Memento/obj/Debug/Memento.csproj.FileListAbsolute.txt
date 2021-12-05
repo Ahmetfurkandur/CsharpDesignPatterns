@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Memento\obj\Debug\Memento.pdb

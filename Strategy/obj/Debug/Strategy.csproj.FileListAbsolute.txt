@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\Strategy\obj\Debug\Strategy.pdb

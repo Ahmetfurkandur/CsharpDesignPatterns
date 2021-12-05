@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

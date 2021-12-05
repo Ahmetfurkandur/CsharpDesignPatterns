@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb
+C:\Users\lenovo\Desktop\coding\DesingPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojAssemblyReference.cache
